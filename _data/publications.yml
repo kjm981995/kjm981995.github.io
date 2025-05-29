@@ -1,22 +1,40 @@
 main:
 
-  - title: Continual Learning for 
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs
+    authors: <strong>Jaemin Kim*<\strong>, Hangeol Chang*, Hyunmin Hwang*, Choonghan Kim, Jong Chul Ye
+    conference: arXiv preprint
+    pdf: https://www.arxiv.org/pdf/2505.19075
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    notes: Preprint
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: Optical-Flow Guided Prompt Optimization for Coherent Video Generation
+    authors: Hyelin Nam*, <strong>Jaemin Kim*<\strong>, Dohun Lee, Jong Chul Ye
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2411.15540
+    page: https://motionprompt.github.io/
+    notes: Poster
+    image: ./assets/img/teaser_example.png
+
+  - title: Derivative-Free Diffusion Manifold-Constrained Gradient for Unified XAI
+    authors: Won Jun Kim*, Hyungjin Chung*, <strong>Jaemin Kim*<\strong>, Sangmin Lee, Byeongsu Sim, Jong Chul Ye
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2411.15265
+    notes: Poster
+    image: ./assets/img/teaser_example.png
+
+  - title: Free<sup>2<\sup>Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models
+    authors: <strong>Jaemin Kim</strong>, Bryan S Kim, Jong Chul Ye
+    conference: arXiv preprint
+    pdf: https://arxiv.org/pdf/2411.17041
+    image: ./assets/img/teaser_example_2.png
+    notes: Preprint
+
+  - title: Generalized Consistency Trajectory Models for Image Manipulation
+    authors: Beomsu Kim*, <strong>Jaemin Kim*<\strong>, Jeongsol Kim, Jong Chul Ye
+    conference_short: ICLR
+    conference: The Thirteenth International Conference on Learning Representations (ICLR), 2025.
+    pdf: https://arxiv.org/pdf/2403.12510
+    notes: Poster
     image: ./assets/img/teaser_example.png
