@@ -28,6 +28,7 @@ main:
     authors: <strong>Jaemin Kim</strong>, Bryan S Kim, Jong Chul Ye
     conference: arXiv preprint
     pdf: https://arxiv.org/pdf/2411.17041
+    page: https://kjm981995.github.io/free2guide/
     image: ./assets/img/free2guide.PNG
     notes: Preprint
 
@@ -36,6 +37,7 @@ main:
     conference_short: ICLR
     conference: The Thirteenth International Conference on Learning Representations (ICLR), 2025.
     pdf: https://arxiv.org/pdf/2403.12510
+    page: https://github.com/1202kbs/GCTM
     notes: Poster
     image: ./assets/img/gctm.PNG
 
