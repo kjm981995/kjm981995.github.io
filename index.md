@@ -4,12 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
-
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+I am a Ph.D. student at <a href="https://gsai.kaist.ac.kr/"><autocolor>KAIST</autocolor></a> where I am advised by Prof. <a href="https://bispl.weebly.com/professor.html"><autocolor>Jong Chul Ye</autocolor></a>.
 
 ## News
 
