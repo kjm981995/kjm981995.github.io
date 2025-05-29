@@ -1,13 +1,13 @@
 main:
 
-  - title: Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs
+  - title: "Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs"
     authors: <strong>Jaemin Kim*</strong>, Hangeol Chang*, Hyunmin Hwang*, Choonghan Kim, Jong Chul Ye
     conference: arXiv preprint
     pdf: https://www.arxiv.org/pdf/2505.19075
     image: ./assets/img/teaser_example_2.png
     notes: Preprint
 
-  - title: Optical-Flow Guided Prompt Optimization for Coherent Video Generation
+  - title: "Optical-Flow Guided Prompt Optimization for Coherent Video Generation"
     authors: Hyelin Nam*, <strong>Jaemin Kim*</strong>, Dohun Lee, Jong Chul Ye
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
@@ -16,7 +16,7 @@ main:
     notes: Poster
     image: ./assets/img/teaser_example.png
 
-  - title: Derivative-Free Diffusion Manifold-Constrained Gradient for Unified XAI
+  - title: "Derivative-Free Diffusion Manifold-Constrained Gradient for Unified XAI"
     authors: Won Jun Kim*, Hyungjin Chung*, <strong>Jaemin Kim*</strong>, Sangmin Lee, Byeongsu Sim, Jong Chul Ye
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
@@ -24,14 +24,14 @@ main:
     notes: Poster
     image: ./assets/img/teaser_example.png
 
-  - title: Free<sup>2</sup>Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models
+  - title: "Free<sup>2</sup>Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models"
     authors: <strong>Jaemin Kim</strong>, Bryan S Kim, Jong Chul Ye
     conference: arXiv preprint
     pdf: https://arxiv.org/pdf/2411.17041
     image: ./assets/img/teaser_example_2.png
     notes: Preprint
 
-  - title: Generalized Consistency Trajectory Models for Image Manipulation
+  - title: "Generalized Consistency Trajectory Models for Image Manipulation"
     authors: Beomsu Kim*, <strong>Jaemin Kim*</strong>, Jeongsol Kim, Jong Chul Ye
     conference_short: ICLR
     conference: The Thirteenth International Conference on Learning Representations (ICLR), 2025.
