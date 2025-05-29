@@ -1,5 +1,4 @@
 main:
-
   - title: Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs
     authors: <strong>Jaemin Kim*<\strong>, Hangeol Chang*, Hyunmin Hwang*, Choonghan Kim, Jong Chul Ye
     conference: arXiv preprint
