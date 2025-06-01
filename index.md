@@ -6,8 +6,10 @@ layout: homepage
 
 <p style="font-size: 16px;">
 I am a Ph.D. student at <a href="https://gsai.kaist.ac.kr/">Graduate School of AI, KAIST</a>, where I also completed my master’s degree under the supervision of Prof. <a href="https://bispl.weebly.com/professor.html">Jong Chul Ye</a>.
+</p>
 
-I am interested in the **controllability** of advanced generative AI models, including diffusion models and large language models (LLMs). My recent research explores **efficient guidance** methods, such as training-free approaches and general-purpose strategies.
+<p style="font-size: 16px;">
+I am interested in the <strong>controllability</strong>strong> of advanced generative AI models, including diffusion models and large language models (LLMs). My recent research explores <strong>efficient guidance</strong>strong> methods, such as training-free approaches and general-purpose strategies.
 </p>
 
 ## News
