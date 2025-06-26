@@ -9,7 +9,7 @@ main:
     image: ./assets/img/free2guide.PNG
     notes: Poster
 
-  - title: "[P3] Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs"
+  - title: "[P2] Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs"
     authors: <strong>Jaemin Kim*</strong>, Hangeol Chang*, Hyunmin Hwang*, Choonghan Kim, Jong Chul Ye
     conference: arXiv preprint
     pdf: https://www.arxiv.org/pdf/2505.19075
