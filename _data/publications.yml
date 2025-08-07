@@ -7,14 +7,12 @@ main:
     pdf: https://arxiv.org/pdf/2411.17041
     page: https://kjm981995.github.io/free2guide/
     image: ./assets/img/free2guide.PNG
-    notes: Poster
 
   - title: "[P2] Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs"
     authors: <strong>Jaemin Kim*</strong>, Hangeol Chang*, Hyunmin Hwang*, Choonghan Kim, Jong Chul Ye
     conference: arXiv preprint
     pdf: https://www.arxiv.org/pdf/2505.19075
     image: ./assets/img/unir.PNG
-    notes: Preprint
 
   - title: "[C3] Optical-Flow Guided Prompt Optimization for Coherent Video Generation"
     authors: Hyelin Nam*, <strong>Jaemin Kim*</strong>, Dohun Lee, Jong Chul Ye
@@ -22,7 +20,6 @@ main:
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2411.15540
     page: https://motionprompt.github.io/
-    notes: Poster
     image: ./assets/img/motionprompt.PNG
 
   - title: "[C2] Derivative-Free Diffusion Manifold-Constrained Gradient for Unified XAI"
@@ -30,7 +27,6 @@ main:
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2411.15265
-    notes: Poster
     image: ./assets/img/derivative.PNG
 
   - title: "[C1] Generalized Consistency Trajectory Models for Image Manipulation"
@@ -39,7 +35,6 @@ main:
     conference: The Thirteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2403.12510
     page: https://github.com/1202kbs/GCTM
-    notes: Poster
     image: ./assets/img/gctm.PNG
 
   - title: "[P1] HiCBridge: Resolution Enhancement of Hi-C Data Using Direct Diffusion Bridge"
@@ -47,4 +42,4 @@ main:
     conference: OpenReview
     pdf: https://openreview.net/pdf?id=RUvzlotXY0
     image: ./assets/img/hicbridge.PNG
-    notes: Preprint
+    # notes: Preprint
