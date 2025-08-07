@@ -21,12 +21,12 @@ I am interested in the <strong>controllability</strong> of advanced generative A
 
 ## My work trajectory
 
-- **HiCBridge**: How can Diffusion Models (DMs) connect two arbitrary distributions?
-- **GCTM**: Can we generalize Consistency Trajectory Models (CTMs) to connect arbitrary distributions?
-- **MotionPrompt**: How can Video DMs generate more natural motion using guidance?
-- **FreeMCG**: Do the samples from DMs provied meaningful directions, as in XAI?
-- **Free<sup>2</sup>Guide**: Can the samples from DMs serve as a guidance?
-- **UniR**: Does LLM serve as guidance in RL approaches?
+- How can Diffusion Models (DMs) connect two arbitrary distributions? (**HiCBridge**)
+- Can we generalize Consistency Trajectory Models (CTMs) to connect arbitrary distributions? (**GCTM**)
+- How can Video DMs generate more natural motion using guidance? (**MotionPrompt**)
+- Do the samples from DMs provied meaningful directions, as in XAI? (**FreeMCG**)
+- Can the samples from DMs serve as a guidance? (**Free<sup>2</sup>Guide**)
+- Does LLM serve as guidance in RL approaches? (**UniR**)
 
 {% include_relative _includes/publications.md %}
 
