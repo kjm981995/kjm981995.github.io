@@ -19,5 +19,14 @@ I am interested in the <strong>controllability</strong> of advanced generative A
 - **[2025.03]** I started Ph.D course in <a href="https://bispl.weebly.com/">BIPSL</a>, KAIST!
 - **[2025.01]** Our paper (<a href="https://arxiv.org/abs/2403.12510">GCTM</a>) is accecpted to ICLR 2025.
 
+## My work trajectory
+
+- HiCBridge: How can Diffusion Models (DMs) connect two arbitrary distributions?
+- GCTM: Can we generalize Consistency Trajectory Models (CTMs) to connect arbitrary distributions?
+- MotionPrompt : How can Video DMs generate more natural motion using guidance?
+- FreeMCG : Do the samples from DMs provied meaningful directions, as in XAI?
+- Free<sup>2</sup>Guide: Can the samples from DMs serve as a guidance?
+- UniR: Does LLM serve as guidance in RL approaches?
+
 {% include_relative _includes/publications.md %}
 
