@@ -1,5 +1,11 @@
 main:
 
+  - title: "[P3] Training-Free Reward-Guided Image Editing via Trajectory Optimal Control"
+    authors: Jinho Chang*, <strong>Jaemin Kim*</strong>, Jong Chul Ye
+    conference: arXiv preprint
+    pdf: https://www.arxiv.org/pdf/2509.25845
+    image: ./assets/img/toc_main.png
+
   - title: "[C4] Free<sup>2</sup>Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models"
     authors: <strong>Jaemin Kim</strong>, Bryan S Kim, Jong Chul Ye
     conference_short: ICCV
