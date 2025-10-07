@@ -24,7 +24,7 @@ I am interested in the <strong>controllability</strong> of advanced generative A
 - How can Diffusion Models (DMs) connect two arbitrary distributions? (**[P1]**)
 - Can Consistency Trajectory Models (CTMs) be generalized to connect arbitrary distributions? (**[C1]**)
 - How can Video DMs generate more natural motion through guidance? (**[C3]**)
-- Do the samples from DMs provie meaningful directions, as in XAI? (**[C2]**)
+- Do the samples from DMs provide meaningful directions, as in XAI? (**[C2]**)
 - Can the samples from DMs serve as guidance? (**[C4]**)
 - Do LLMs serve as guidance in RL approaches? (**[P2]**)
 - Can DMs edit images to maximize reward in a training-free manner? (**[P3]**)
