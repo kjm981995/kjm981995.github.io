@@ -9,7 +9,7 @@ I am a Ph.D. student at <a href="https://gsai.kaist.ac.kr/">Graduate School of A
 </p>
 
 <p style="font-size: 16px;">
-I am interested in the <strong>controllability</strong> of advanced generative AI models, including diffusion models and large language models (LLMs). My recent research explores <strong>efficient guidance</strong> methods, such as training-free approaches and general-purpose strategies.
+My research focuses on <strong>controllable generative AI</strong>, exploring ways to steer the outputs of advanced models such as diffusion models and large language models (LLMs) efficiently. I work at the intersection of generative modeling, trajectory-level optimization, and black-box guidance, with the goal of making generative AI more controllable and interpretable.
 </p>
 
 ## News
