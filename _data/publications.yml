@@ -6,7 +6,7 @@ main:
     pdf: https://www.arxiv.org/pdf/2509.25845
     image: ./assets/img/toc_main.png
 
-  - title: "[C4] Free<sup>2</sup>Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models"
+  - title: "[C4] Free<sup>2</sup>Guide: Training-Free Text-to-Video Alignment using Image LVLM"
     authors: <strong>Jaemin Kim</strong>, Bryan S Kim, Jong Chul Ye
     conference_short: ICCV
     conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2025
