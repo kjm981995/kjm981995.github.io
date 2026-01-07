@@ -31,3 +31,5 @@ My research focuses on <strong>controllable generative AI</strong>, exploring wa
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/services.md %}
+
