@@ -29,5 +29,9 @@ My research focuses on <strong>controllable generative AI</strong>, exploring wa
 - Do LLMs serve as guidance in RL approaches? (**[P2]**)
 - Can DMs edit images to maximize reward in a training-free manner? (**[P3]**)
 
+## Review
+
+- ICLR 2026
+
 {% include_relative _includes/publications.md %}
 
