@@ -25,6 +25,7 @@ main:
     conference: arXiv preprint
     pdf: https://www.arxiv.org/pdf/2505.19075
     image: ./assets/img/unir.PNG
+    notes: Silver prize, 32nd Samsung Humantech Paper Award
 
   - title: "[C3] Optical-Flow Guided Prompt Optimization for Coherent Video Generation"
     authors: Hyelin Nam*, <strong>Jaemin Kim*</strong>, Dohun Lee, Jong Chul Ye
