@@ -10,21 +10,21 @@ main:
     authors: Jinho Chang*, <strong>Jaemin Kim*</strong>, Jong Chul Ye
     conference_short: ICLR
     conference: The Fourteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
-    pdf: https://www.arxiv.org/pdf/2509.25845
+    pdf: https://www.arxiv.org/abs/2509.25845
     image: ./assets/img/toc_main.png
 
   - title: "[C4] Free<sup>2</sup>Guide: Training-Free Text-to-Video Alignment using Image LVLM"
     authors: <strong>Jaemin Kim</strong>, Bryan Sangwoo Kim, Jong Chul Ye
     conference_short: ICCV
     conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2025
-    pdf: https://arxiv.org/pdf/2411.17041
+    pdf: https://arxiv.org/abs/2411.17041
     page: https://kjm981995.github.io/free2guide/
     image: ./assets/img/free2guide.PNG
 
   - title: "[P2] Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs"
     authors: <strong>Jaemin Kim*</strong>, Hangeol Chang*, Hyunmin Hwang*, Choonghan Kim, Jong Chul Ye
     conference: arXiv preprint
-    pdf: https://www.arxiv.org/pdf/2505.19075
+    pdf: https://www.arxiv.org/abs/2505.19075
     image: ./assets/img/unir.PNG
     notes: Silver prize, 32nd Samsung Humantech Paper Award
 
@@ -32,7 +32,7 @@ main:
     authors: Hyelin Nam*, <strong>Jaemin Kim*</strong>, Dohun Lee, Jong Chul Ye
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2411.15540
+    pdf: https://arxiv.org/abs/2411.15540
     page: https://motionprompt.github.io/
     image: ./assets/img/motionprompt.PNG
 
@@ -40,14 +40,14 @@ main:
     authors: Won Jun Kim*, Hyungjin Chung*, <strong>Jaemin Kim*</strong>, Sangmin Lee, Byeongsu Sim, Jong Chul Ye
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2411.15265
+    pdf: https://arxiv.org/abs/2411.15265
     image: ./assets/img/derivative.PNG
 
   - title: "[C1] Generalized Consistency Trajectory Models for Image Manipulation"
     authors: Beomsu Kim*, <strong>Jaemin Kim*</strong>, Jeongsol Kim, Jong Chul Ye
     conference_short: ICLR
     conference: The Thirteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2403.12510
+    pdf: https://arxiv.org/abs/2403.12510
     page: https://github.com/1202kbs/GCTM
     image: ./assets/img/gctm.PNG
 
