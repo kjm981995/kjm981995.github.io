@@ -1,14 +1,15 @@
 main:
 
-  - title: "[P4] Dementia-R1: Reinforced Pretraining and Reasoning from Unstructured Clinical Notes for Real-World Dementia Prognosis"
+  - title: "[P3] Dementia-R1: Reinforced Pretraining and Reasoning from Unstructured Clinical Notes for Real-World Dementia Prognosis"
     authors: Choonghan Kim*, Hyunmin Hwang*, Hangeol Chang*, <strong>Jaemin Kim*</strong>, Jinse Park, Jae-Sung Lim, Jong Chul Ye
     conference: arXiv preprint
     pdf: https://arxiv.org/abs/2601.03018
     image: ./assets/img/dementia_r1.png
 
-  - title: "[P3] Training-Free Reward-Guided Image Editing via Trajectory Optimal Control"
+  - title: "[C5] Training-Free Reward-Guided Image Editing via Trajectory Optimal Control"
     authors: Jinho Chang*, <strong>Jaemin Kim*</strong>, Jong Chul Ye
-    conference: arXiv preprint
+    conference_short: ICLR
+    conference: The Fourteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     pdf: https://www.arxiv.org/pdf/2509.25845
     image: ./assets/img/toc_main.png
 
