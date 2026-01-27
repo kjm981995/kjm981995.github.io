@@ -19,7 +19,7 @@ My research focuses on <strong>controllable generative AI</strong>, exploring wa
 - **[2025.06]** Our paper (<a href="https://arxiv.org/abs/2411.17041">Free<sup>2</sup>Guide</a>) is accecpted to ICCV 2025.
 - **[2025.03]** Two papers (<a href="https://arxiv.org/abs/2411.15540">MotionPrompt</a>, <a href="https://arxiv.org/abs/2411.15265">FreeMCG</a>) are accepted to CVPR 2025.
 - **[2025.03]** I started Ph.D course in <a href="https://bispl.weebly.com/">BIPSL</a>, KAIST!
-- **[2025.01]** Our paper (<a href="https://arxiv.org/abs/2403.12510">GCTM</a>) is accecpted to ICLR 2025.
+<!-- - **[2025.01]** Our paper (<a href="https://arxiv.org/abs/2403.12510">GCTM</a>) is accecpted to ICLR 2025. -->
 
 ## My work trajectory
 
