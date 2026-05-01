@@ -1,6 +1,20 @@
 main:
+  - title: "[C6] Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs"
+    authors: <strong>Jaemin Kim*</strong>, Hangeol Chang*, Hyunmin Hwang*, Choonghan Kim, Jong Chul Ye
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026
+    pdf: https://www.arxiv.org/abs/2505.19075
+    image: ./assets/img/unir.PNG
+    notes: Silver prize, 32nd Samsung Humantech Paper Award
 
-  - title: "[P3] Dementia-R1: Reinforced Pretraining and Reasoning from Unstructured Clinical Notes for Real-World Dementia Prognosis"
+    - title: "[P3] Adaptive Guidance for Retrieval-Augmented Masked Diffusion Models"
+    authors: <strong>Jaemin Kim</strong> and Jong Chul Ye
+    conference: arXiv preprint
+    pdf: https://arxiv.org/abs/2603.17677
+    image: ./assets/img/aram.png
+
+
+  - title: "[P2] Dementia-R1: Reinforced Pretraining and Reasoning from Unstructured Clinical Notes for Real-World Dementia Prognosis"
     authors: Choonghan Kim*, Hyunmin Hwang*, Hangeol Chang*, <strong>Jaemin Kim*</strong>, Jinse Park, Jae-Sung Lim, Jong Chul Ye
     conference: arXiv preprint
     pdf: https://arxiv.org/abs/2601.03018
@@ -20,13 +34,6 @@ main:
     pdf: https://arxiv.org/abs/2411.17041
     page: https://kjm981995.github.io/free2guide/
     image: ./assets/img/free2guide.PNG
-
-  - title: "[P2] Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs"
-    authors: <strong>Jaemin Kim*</strong>, Hangeol Chang*, Hyunmin Hwang*, Choonghan Kim, Jong Chul Ye
-    conference: arXiv preprint
-    pdf: https://www.arxiv.org/abs/2505.19075
-    image: ./assets/img/unir.PNG
-    notes: Silver prize, 32nd Samsung Humantech Paper Award
 
   - title: "[C3] Optical-Flow Guided Prompt Optimization for Coherent Video Generation"
     authors: Hyelin Nam*, <strong>Jaemin Kim*</strong>, Dohun Lee, Jong Chul Ye
