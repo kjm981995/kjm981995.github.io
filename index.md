@@ -14,11 +14,13 @@ My research focuses on <strong>controllable generative AI</strong>, exploring wa
 
 ## News
 
+- **[2026.05]** I started internship at Sony AI!
+- **[2026.05]** Our paper (<a href="https://arxiv.org/abs/2505.19075">Universal Reasoner</a>) is accecpted to ICML 2026.
 - **[2026.01]** Our paper (<a href="https://arxiv.org/abs/2509.25845">Training-free Reward Guiding</a>) is accecpted to ICLR 2026.
-- **[2026.01]** Our paper (<a href="https://arxiv.org/abs/2505.19075">UniR</a>) received a Silver prize at 32nd Samsung Humantech Paper Award.
+- **[2026.01]** Our paper (<a href="https://arxiv.org/abs/2505.19075">Universal Reasoner</a>) received a Silver prize at 32nd Samsung Humantech Paper Award.
 - **[2025.06]** Our paper (<a href="https://arxiv.org/abs/2411.17041">Free<sup>2</sup>Guide</a>) is accecpted to ICCV 2025.
-- **[2025.03]** Two papers (<a href="https://arxiv.org/abs/2411.15540">MotionPrompt</a>, <a href="https://arxiv.org/abs/2411.15265">FreeMCG</a>) are accepted to CVPR 2025.
-- **[2025.03]** I started Ph.D course in <a href="https://bispl.weebly.com/">BIPSL</a>, KAIST!
+<!--- **[2025.03]** Two papers (<a href="https://arxiv.org/abs/2411.15540">MotionPrompt</a>, <a href="https://arxiv.org/abs/2411.15265">FreeMCG</a>) are accepted to CVPR 2025. -->
+<!--- **[2025.03]** I started Ph.D course in <a href="https://bispl.weebly.com/">BIPSL</a>, KAIST! -->
 <!-- - **[2025.01]** Our paper (<a href="https://arxiv.org/abs/2403.12510">GCTM</a>) is accecpted to ICLR 2025. -->
 
 ## My work trajectory
@@ -28,7 +30,7 @@ My research focuses on <strong>controllable generative AI</strong>, exploring wa
 - How can Video DMs generate more natural motion through guidance? (**[C3]**)
 - Do the samples from DMs provide meaningful directions, as in XAI? (**[C2]**)
 - Can the samples from DMs serve as guidance? (**[C4]**)
-- Do LLMs serve as guidance in RL approaches? (**[P2]**)
+- Do LLMs serve as guidance in RL approaches? (**[C6]**)
 - Can DMs edit images to maximize reward in a training-free manner? (**[C5]**)
 - Can train LLMs with GRPO in prediction tasks? (**[P3]**)
 
