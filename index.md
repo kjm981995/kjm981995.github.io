@@ -32,7 +32,7 @@ My research focuses on <strong>controllable generative AI</strong>, exploring wa
 - Can the samples from DMs serve as guidance? (**[C4]**)
 - Do LLMs serve as guidance in RL approaches? (**[C6]**)
 - Can DMs edit images to maximize reward in a training-free manner? (**[C5]**)
-- Can train LLMs with GRPO in prediction tasks? (**[P3]**)
+- Can train LLMs with GRPO in prediction tasks? (**[P2]**)
 
 {% include_relative _includes/publications.md %}
 
