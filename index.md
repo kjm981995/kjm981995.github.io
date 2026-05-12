@@ -14,7 +14,7 @@ My research focuses on <strong>controllable generative AI</strong>, exploring wa
 
 ## News
 
-- **[2026.05]** I started internship at Sony AI!
+- **[2026.05]** I started internship at Sony!
 - **[2026.05]** Our paper (<a href="https://arxiv.org/abs/2505.19075">Universal Reasoner</a>) is accecpted to ICML 2026.
 - **[2026.01]** Our paper (<a href="https://arxiv.org/abs/2509.25845">Training-free Reward Guiding</a>) is accecpted to ICLR 2026.
 - **[2026.01]** Our paper (<a href="https://arxiv.org/abs/2505.19075">Universal Reasoner</a>) received a Silver prize at 32nd Samsung Humantech Paper Award.
@@ -25,14 +25,12 @@ My research focuses on <strong>controllable generative AI</strong>, exploring wa
 
 ## My work trajectory
 
-- How can Diffusion Models (DMs) connect two arbitrary distributions? (**[P1]**)
 - Can Consistency Trajectory Models (CTMs) be generalized to connect arbitrary distributions? (**[C1]**)
 - How can Video DMs generate more natural motion through guidance? (**[C3]**)
 - Do the samples from DMs provide meaningful directions, as in XAI? (**[C2]**)
 - Can the samples from DMs serve as guidance? (**[C4]**)
-- Do LLMs serve as guidance in RL approaches? (**[C6]**)
 - Can DMs edit images to maximize reward in a training-free manner? (**[C5]**)
-- Can train LLMs with GRPO in prediction tasks? (**[P2]**)
+- Do LLMs serve as guidance in RL approaches? (**[C6]**)
 
 {% include_relative _includes/publications.md %}
 
