@@ -7,6 +7,13 @@ main:
     image: ./assets/img/unir.PNG
     notes: Silver prize, 32nd Samsung Humantech Paper Award
 
+  - title: "[W1] AgentPSO: Evolving Agent Reasoning Skill via Multi-agent Particle Swarm Optimization"
+    authors: Hyunmin Hwang*, <strong>Jaemin Kim*</strong>, Choonghan Kim, Hangeol Chang, Jong Chul Ye
+    conference_short: ICML Workshop
+    conference: ICML AI4Math
+    pdf: https://arxiv.org/abs/2605.08704
+    image: ./assets/img/agentpso.png
+
   - title: "[P3] Adaptive Guidance for Retrieval-Augmented Masked Diffusion Models"
     authors: <strong>Jaemin Kim</strong> and Jong Chul Ye
     conference: arXiv preprint
