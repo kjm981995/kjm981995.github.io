@@ -9,11 +9,12 @@ I am a Ph.D. student at <a href="https://gsai.kaist.ac.kr/">Graduate School of A
 </p>
 
 <p style="font-size: 16px;">
-My research focuses on <strong>controllable generative AI</strong>, exploring ways to steer the outputs of advanced models such as diffusion models and large language models (LLMs) efficiently. I work at the intersection of generative modeling, trajectory-level optimization, and black-box guidance, with the goal of making generative AI more controllable and interpretable.
+My research focuses on <strong>reward-maximizing generative AI</strong>, exploring ways to steer the outputs of advanced models such as diffusion models and large language models (LLMs) to optimize certain rewards. I work at the intersection of generative modeling, trajectory-level optimization, and black-box guidance, with the goal of making generative AI more controllable.
 </p>
 
 ## News
 
+- **[2026.06]** Our paper (<a href="https://arxiv.org/abs/2605.08704">AgentPSO</a>) is accecpted to 3rd ICML Workshop (AI4Math) 2026.
 - **[2026.05]** I started internship at Sony!
 - **[2026.05]** Our paper (<a href="https://arxiv.org/abs/2505.19075">Universal Reasoner</a>) is accecpted to ICML 2026.
 - **[2026.01]** Our paper (<a href="https://arxiv.org/abs/2509.25845">Training-free Reward Guiding</a>) is accecpted to ICLR 2026.
@@ -25,12 +26,11 @@ My research focuses on <strong>controllable generative AI</strong>, exploring wa
 
 ## My work trajectory
 
-- Can Consistency Trajectory Models (CTMs) be generalized to connect arbitrary distributions? (**[C1]**)
-- How can Video DMs generate more natural motion through guidance? (**[C3]**)
-- Do the samples from DMs provide meaningful directions, as in XAI? (**[C2]**)
-- Can the samples from DMs serve as guidance? (**[C4]**)
-- Can DMs edit images to maximize reward in a training-free manner? (**[C5]**)
-- Do LLMs serve as guidance in RL approaches? (**[C6]**)
+The central idea is to view generation and reasoning as trajectories, and to develop guidance signals that can steer these trajectories toward desired outcomes. This work has evolved along three connected directions:
+
+- **Trajectory Modeling.** I study how generative trajectories can connect arbitrary distributions, providing a flexible foundation for controlled generation and manipulation ([C1]).
+- **Guidance from Generative Signals.** I investigate how diffusion samples, motion cues, and vision-language feedback can reveal or construct useful guidance directions for generation, including gradient-free, plug-and-play, and training-free approaches ([C2–C4]).
+- **Reward-Directed Control and Reasoning.** Building on these guidance mechanisms, I develop methods that optimize image generation and language-model reasoning toward explicit objectives through trajectory-level control and composable reasoning modules ([C5–C6]).
 
 {% include_relative _includes/publications.md %}
 
