@@ -10,7 +10,7 @@ main:
   - title: "[C7] Adaptive Guidance for Retrieval-Augmented Masked Diffusion Models"
     authors: <strong>Jaemin Kim</strong> and Jong Chul Ye
     conference_short: EMNLP Findings
-    conference: Findings of the Association for Computational Linguistics: <strong>EMNLP</strong> 2026
+    conference: Findings of the Association for Computational Linguistics <strong>EMNLP</strong> 2026
     pdf: https://arxiv.org/abs/2603.17677
     image: ./assets/img/aram.png
     
