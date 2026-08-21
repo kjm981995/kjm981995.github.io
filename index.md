@@ -14,12 +14,13 @@ My research focuses on <strong>reward-maximizing generative AI</strong>, explori
 
 ## News
 
+- **[2026.08]** Two papers (<a href="https://arxiv.org/abs/2601.03018">Dimentia-R1</a>, <a href="https://arxiv.org/abs/2603.17677">ARAM</a>) are accecpted to EMNLP 2026.
 - **[2026.06]** Our paper (<a href="https://arxiv.org/abs/2605.08704">AgentPSO</a>) is accecpted to 3rd ICML Workshop (AI4Math) 2026.
 - **[2026.05]** I started internship at Sony!
 - **[2026.05]** Our paper (<a href="https://arxiv.org/abs/2505.19075">Universal Reasoner</a>) is accecpted to ICML 2026.
 - **[2026.01]** Our paper (<a href="https://arxiv.org/abs/2509.25845">Training-free Reward Guiding</a>) is accecpted to ICLR 2026.
 - **[2026.01]** Our paper (<a href="https://arxiv.org/abs/2505.19075">Universal Reasoner</a>) received a Silver prize at 32nd Samsung Humantech Paper Award.
-- **[2025.06]** Our paper (<a href="https://arxiv.org/abs/2411.17041">Free<sup>2</sup>Guide</a>) is accecpted to ICCV 2025.
+<!--- **[2025.06]** Our paper (<a href="https://arxiv.org/abs/2411.17041">Free<sup>2</sup>Guide</a>) is accecpted to ICCV 2025. -->
 <!--- **[2025.03]** Two papers (<a href="https://arxiv.org/abs/2411.15540">MotionPrompt</a>, <a href="https://arxiv.org/abs/2411.15265">FreeMCG</a>) are accepted to CVPR 2025. -->
 <!--- **[2025.03]** I started Ph.D course in <a href="https://bispl.weebly.com/">BIPSL</a>, KAIST! -->
 <!-- - **[2025.01]** Our paper (<a href="https://arxiv.org/abs/2403.12510">GCTM</a>) is accecpted to ICLR 2025. -->
@@ -30,7 +31,7 @@ The central idea is to view generation and reasoning as trajectories, and to dev
 
 - **Trajectory Modeling.** I study how generative trajectories can connect arbitrary distributions, providing a flexible foundation for controlled generation and manipulation ([C1]).
 - **Guidance from Generative Signals.** I investigate how diffusion samples, motion cues, and vision-language feedback can reveal or construct useful guidance directions for generation, including gradient-free, plug-and-play, and training-free approaches ([C2–C4]).
-- **Reward-Directed Control and Reasoning.** Building on these guidance mechanisms, I develop methods that optimize image generation and language-model reasoning toward explicit objectives through trajectory-level control and composable reasoning modules ([C5–C6]).
+- **Reward-Directed Control and Reasoning.** Building on these guidance mechanisms, I develop methods that optimize image generation and language-model reasoning toward explicit objectives through trajectory-level control and composable reasoning modules ([C5–C8]).
 
 {% include_relative _includes/publications.md %}
 
