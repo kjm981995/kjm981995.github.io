@@ -6,6 +6,7 @@ main:
     conference: Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>
     pdf: https://arxiv.org/abs/2601.03018
     image: ./assets/img/dementia_r1.png
+    notes: Oral
 
   - title: "[C7] Adaptive Guidance for Retrieval-Augmented Masked Diffusion Models"
     authors: <strong>Jaemin Kim</strong> and Jong Chul Ye
